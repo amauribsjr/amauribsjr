@@ -12,7 +12,7 @@ analytically, from first principles, with attention to what's actually happening
 
 | Project | Stack | Status |
 |---|---|---|
-| REST API — resource management | Java 21 · Spring Boot 3 · Spring Security + JWT · PostgreSQL · Docker | 🔧 In progress |
+| REST API — resource management | Java 21 · Spring Boot 3 · Spring Security + JWT · MySQL · Docker | 🔧 In progress |
 | Binary Search Trees (BST · AVL · RBT) | Rust | 🔧 In progress |
 | Auto Crossroad — intersection simulator | Rust | 🔧 Early stage |
 
@@ -24,7 +24,7 @@ analytically, from first principles, with attention to what's actually happening
  
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
@@ -33,6 +33,7 @@ analytically, from first principles, with attention to what's actually happening
  
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
 [![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
  
 **Tools**
  
