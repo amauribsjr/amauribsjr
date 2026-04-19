@@ -22,15 +22,23 @@ analytically, from first principles, with attention to what's actually happening
 
 **Main stack**
  
-[![Main](https://skillicons.dev/icons?i=java,spring,postgres,docker,git,linux)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
  
 **Learning actively**
  
-[![Learning](https://skillicons.dev/icons?i=rust,c)](https://skillicons.dev)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
+[![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
  
 **Tools**
  
-[![Tools](https://skillicons.dev/icons?i=vscode,github,bash)](https://skillicons.dev)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash)
 
 ---
 
