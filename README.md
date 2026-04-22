@@ -1,27 +1,15 @@
-# Hi, I'm Amauri 👋
+# Hi there. My name is Amauri.
 
-Backend developer focused on the **JVM ecosystem** and systems programming with **Rust**.
-Based in Ponta Grossa, Brazil — open to remote opportunities.
+Backend developer currently focused on the JVM ecosystem and systems programming with Rust.
+Based in Ponta Grossa, Brazil.
 
-I come from a Physics background, which shapes how I approach problems:
-analytically, from first principles, with attention to what's actually happening underneath.
-
----
-
-## What I'm building
-
-| Project | Stack | Status |
-|---|---|---|
-| REST API — resource management | Java 21 · Spring Boot 3 · Spring Security + JWT · MySQL · Docker | 🔧 In progress |
-| Binary Search Trees (BST · AVL · RBT) | Rust | 🔧 In progress |
-| Auto Crossroad — intersection simulator | Rust | 🔧 Early stage |
+Passionate for technology and physics.
 
 ---
 
-## Tech
+## Tech Stack
+*Tech I already get along by:*
 
-**Main stack**
- 
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
@@ -29,7 +17,7 @@ analytically, from first principles, with attention to what's actually happening
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org)
  
-**Learning actively**
+*Still learning actively:*
  
 [![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
 [![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
@@ -45,20 +33,19 @@ analytically, from first principles, with attention to what's actually happening
 
 ## Currently studying
 
-- CS50x — Harvard University (C, algorithms, memory, data structures)
+- CS50x — Harvard University (C, Algorithms, Memory, Data Structures)
 - Data Structures & Algorithms — Abdul Bari
-- Rust — systems programming track
+- Rust — Systems Programming Track
 
 ---
 
 ## Background
 
 Before software, I spent time studying theoretical physics.
-I left the degree but kept the passion so the mindset:
-rigor, abstraction, and genuine curiosity about how things work at a fundamental level.
+Which I still am passionate about and keep studying.
 
-That's what draws me to systems programming, low-level design,
-and problems where performance and correctness actually matter.
+Being attracted by systems engineering and development, algorithms, theoretical physics and so,
+is what draws me to systems programming, low-level design, and problems where performance and correctness actually matter.
 
 ---
 
@@ -67,4 +54,4 @@ and problems where performance and correctness actually matter.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amauribsjr-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/amauribsjr)
 [![Email](https://img.shields.io/badge/Email-amauribsjunior@proton.me-6D4AFF?style=flat&logo=protonmail)](mailto:amauribsjunior@proton.me)
 
-> *Fluent in English — comfortable working in international environments.*
+> *Fluent English.*
