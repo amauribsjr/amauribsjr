@@ -76,8 +76,6 @@ Looking mainly for backend or systems roles where I can work on performance-crit
 
 - CS50x — Harvard University (C, memory, algorithms, low-level fundamentals)
 - Data Structures & Algorithms — Abdul Bari
-- Rust — systems programming track
-- Ruby — language fundamentals and ecosystem
 
 ---
 
