@@ -66,7 +66,7 @@ Looking mainly for backend or systems roles where I can work on performance-crit
   → [View project](https://github.com/amauribsjr/language-app)
 
 - **Traffic simulation system (Rust)**  
-  → Developing an intersection simulation focused on vehicle flow and control logic
+  → Developing an intersection simulation focused on vehicle flow and control logic  
   → Exploring system modeling and behavior in Rust  
   → [View project](https://github.com/amauribsjr/auto-crossroad)
 
