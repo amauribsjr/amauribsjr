@@ -16,12 +16,12 @@ Looking mainly for backend or systems roles where I can work on performance-crit
 
 ## Stack
 
-**Core (Production experience)**
+**Core Stack**
 
 [![Java](https://img.shields.io/badge/Java-F2C94C?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com)
 [![Spring](https://img.shields.io/badge/Spring-F2C94C?style=for-the-badge&logo=spring&logoColor=black)](https://spring.io)
 
-**DBs & Infrastructure**
+**Databases & Infrastructure**
 
 [![MySQL](https://img.shields.io/badge/MySQL-F2C94C?style=for-the-badge&logo=mysql&logoColor=black)](https://www.mysql.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F2C94C?style=for-the-badge&logo=postgresql&logoColor=black)](https://www.postgresql.org)
@@ -66,7 +66,7 @@ Looking mainly for backend or systems roles where I can work on performance-crit
   → [View project](https://github.com/amauribsjr/language-app)
 
 - **Traffic simulation system (Rust)**  
-  → Developing an intersection simulation with traffic control logic and system modeling  
+  → Developing an intersection simulation focused on vehicle flow and control logic
   → Exploring system modeling and behavior in Rust  
   → [View project](https://github.com/amauribsjr/auto-crossroad)
 
