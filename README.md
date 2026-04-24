@@ -1,35 +1,54 @@
 # Hi, I'm Amauri.
 
-Backend developer focused on the JVM ecosystem and systems programming with Rust.  
-Based in Ponta Grossa, Brazil.
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20%7C%20Systems%20%7C%20Performance-F2C94C?style=for-the-badge&logoColor=black">
+</p>
 
-Interested in technology, physics, and problems where performance and correctness actually matter.
+<p align="center">
+  Based in Ponta Grossa, Brazil • Focused on systems, performance, and low-level problem solving
+</p>
+
+## Objective
+
+Looking mainly for backend or systems roles where I can work on performance-critical software, low-level design, and efficient system architecture.
 
 ---
 
-## Tech Stack
+## Stack
 
-[![Java](https://img.shields.io/badge/Java-E0A458?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![Spring](https://img.shields.io/badge/Spring-A3B18A?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
-[![Rust](https://img.shields.io/badge/Rust-8D6E63?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![C](https://img.shields.io/badge/C-6D6875?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
+**Core (Production experience)**
 
-[![MySQL](https://img.shields.io/badge/MySQL-B08968?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8D6E63?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Docker](https://img.shields.io/badge/Docker-C2A878?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Linux](https://img.shields.io/badge/Linux-E0A458?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
+[![Java](https://img.shields.io/badge/Java-F2C94C?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com)
+[![Spring](https://img.shields.io/badge/Spring-F2C94C?style=for-the-badge&logo=spring&logoColor=black)](https://spring.io)
 
-**Tools**
+**DBs & Infrastructure**
 
-[![Zed](https://img.shields.io/badge/Zed-6D6875?style=for-the-badge&logo=none&logoColor=white)](https://zed.dev)
-[![Git](https://img.shields.io/badge/Git-B08968?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![Bash](https://img.shields.io/badge/Bash-A3B18A?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
+[![MySQL](https://img.shields.io/badge/MySQL-F2C94C?style=for-the-badge&logo=mysql&logoColor=black)](https://www.mysql.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F2C94C?style=for-the-badge&logo=postgresql&logoColor=black)](https://www.postgresql.org)
+[![Docker](https://img.shields.io/badge/Docker-F2C94C?style=for-the-badge&logo=docker&logoColor=black)](https://www.docker.com)
+[![Linux](https://img.shields.io/badge/Linux-F2C94C?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
+
+**Development Tools**
+
+[![Zed](https://img.shields.io/badge/Zed-F2C94C?style=for-the-badge&logo=none&logoColor=black)](https://zed.dev)
+[![Git](https://img.shields.io/badge/Git-F2C94C?style=for-the-badge&logo=git&logoColor=black)](https://git-scm.com)
+[![Bash](https://img.shields.io/badge/Bash-F2C94C?style=for-the-badge&logo=gnubash&logoColor=black)](https://www.gnu.org/software/bash)
+
+**Learning — Systems**
+
+[![Rust](https://img.shields.io/badge/Rust-F2C94C?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org)
+[![C](https://img.shields.io/badge/C-F2C94C?style=for-the-badge&logo=c&logoColor=black)](https://www.iso.org/standard/74528.html)
+
+**Learning — Languages & Ecosystem**
+
+[![Ruby](https://img.shields.io/badge/Ruby-F2C94C?style=for-the-badge&logo=ruby&logoColor=black)](https://www.ruby-lang.org)
+[![Julia](https://img.shields.io/badge/Julia-F2C94C?style=for-the-badge&logo=julia&logoColor=black)](https://julialang.org)
 
 ---
 
 ## Currently studying
 
-- CS50x — Harvard University (C, algorithms, memory, data structures)
+- CS50x — Harvard University (C, memory, algorithms, low-level fundamentals)
 - Data Structures & Algorithms — Abdul Bari
 - Rust — systems programming track
 - Ruby — language fundamentals and ecosystem
@@ -38,9 +57,7 @@ Interested in technology, physics, and problems where performance and correctnes
 
 ## Background
 
-Before software, I spent time studying theoretical physics — something I still keep close.
-
-That background is what pulled me toward systems programming, low-level design, and areas where understanding the underlying mechanics is essential.
+Background in theoretical physics (something I still keep close) which naturally led me toward systems programming, low-level design, and performance-oriented problem solving.
 
 ---
 
