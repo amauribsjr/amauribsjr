@@ -20,6 +20,8 @@ Looking mainly for backend or systems roles where I can work on performance-crit
 
 [![Java](https://img.shields.io/badge/Java-F2C94C?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com)
 [![Spring](https://img.shields.io/badge/Spring-F2C94C?style=for-the-badge&logo=spring&logoColor=black)](https://spring.io)
+[![Rust](https://img.shields.io/badge/Rust-F2C94C?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org)
+[![C](https://img.shields.io/badge/C-F2C94C?style=for-the-badge&logo=c&logoColor=black)](https://www.iso.org/standard/74528.html)
 
 **Databases & Infrastructure**
 
@@ -33,11 +35,6 @@ Looking mainly for backend or systems roles where I can work on performance-crit
 [![Zed](https://img.shields.io/badge/Zed-F2C94C?style=for-the-badge&logo=none&logoColor=black)](https://zed.dev)
 [![Git](https://img.shields.io/badge/Git-F2C94C?style=for-the-badge&logo=git&logoColor=black)](https://git-scm.com)
 [![Bash](https://img.shields.io/badge/Bash-F2C94C?style=for-the-badge&logo=gnubash&logoColor=black)](https://www.gnu.org/software/bash)
-
-**Learning — Systems**
-
-[![Rust](https://img.shields.io/badge/Rust-F2C94C?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org)
-[![C](https://img.shields.io/badge/C-F2C94C?style=for-the-badge&logo=c&logoColor=black)](https://www.iso.org/standard/74528.html)
 
 **Learning — Languages & Ecosystem**
 
@@ -53,6 +50,12 @@ Looking mainly for backend or systems roles where I can work on performance-crit
   → Built purchase history and inventory management logic  
   → Worked within an existing codebase  
   → [View project](https://github.com/ederbastos21/ecommerce)
+
+- **Reproducible NixOS system configuration (NixOS & Nix / Flakes / Home Manager)**  
+  → Built and versioned a full NixOS desktop setup using flakes and Home Manager  
+  → Modularized system, hardware, NVIDIA, virtualization, shell, terminal, and desktop configuration  
+  → Focus on reproducible environments, Linux tooling, and declarative system management  
+  → [View project](https://github.com/amauribsjr/nixos-config)
 
 - **Red-Black Tree & TSP implementation (Java)**  
   → Implemented self-balancing BST and TSP solution  
