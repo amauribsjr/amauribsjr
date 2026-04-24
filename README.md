@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Based in Ponta Grossa, Brazil • Focused on systems, performance, and low-level problem solving
+  Based in Ponta Grossa, Brazil • Focused on low-level problem solving and efficient systems
 </p>
 
 ## Objective
@@ -43,6 +43,32 @@ Looking mainly for backend or systems roles where I can work on performance-crit
 
 [![Ruby](https://img.shields.io/badge/Ruby-F2C94C?style=for-the-badge&logo=ruby&logoColor=black)](https://www.ruby-lang.org)
 [![Julia](https://img.shields.io/badge/Julia-F2C94C?style=for-the-badge&logo=julia&logoColor=black)](https://julialang.org)
+
+---
+
+## Projects & Experience
+
+- **E-commerce backend contributions (Java / Spring / MySQL)**  
+  → Implemented database features and navigation flow  
+  → Built purchase history and inventory management logic  
+  → Worked within an existing codebase  
+  → [View project](https://github.com/ederbastos21/ecommerce)
+
+- **Red-Black Tree & TSP implementation (Java)**  
+  → Implemented self-balancing BST and TSP solution  
+  → Focus on algorithms and computational efficiency  
+  → [View project](https://github.com/ederbastos21/estruturas-pesquisa-ordenacao-dados/tree/master/src/main/java/br/unicesumar/projeto_1)
+
+- **Language learning manager (Java / JavaFX / SQLite)**  
+  → Built an interactive desktop application for organizing language study resources  
+  → Implemented local data persistence (languages, topics, and study materials)  
+  → Designed a modular architecture with separation between UI, services, and database layers  
+  → [View project](https://github.com/amauribsjr/language-app)
+
+- **Traffic simulation system (Rust)**  
+  → Developing an intersection simulation with traffic control logic and system modeling  
+  → Exploring system modeling and behavior in Rust  
+  → [View project](https://github.com/amauribsjr/auto-crossroad)
 
 ---
 
