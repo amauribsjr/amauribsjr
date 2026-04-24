@@ -16,7 +16,7 @@ Looking mainly for backend or systems roles where I can work on performance-crit
 
 ## Stack
 
-**Core Stack**
+**Core Stack** *(Experienced)*
 
 [![Java](https://img.shields.io/badge/Java-F2C94C?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com)
 [![Spring](https://img.shields.io/badge/Spring-F2C94C?style=for-the-badge&logo=spring&logoColor=black)](https://spring.io)
