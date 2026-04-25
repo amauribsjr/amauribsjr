@@ -1,7 +1,7 @@
 # Hi, I'm Amauri.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20%7C%20Systems%20%7C%20Performance-F2C94C?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/Backend%20%7C%20Systems%20%7C%20Performance-0D1B2A?style=for-the-badge&logoColor=white">
 </p>
 
 <p align="center">
@@ -18,27 +18,86 @@ Looking mainly for backend or systems roles where I can work on performance-crit
 
 **Core Stack** *(Experienced)*
 
-[![Java](https://img.shields.io/badge/Java-F2C94C?style=for-the-badge&logo=openjdk&logoColor=black)](https://www.java.com)
-[![Spring](https://img.shields.io/badge/Spring-F2C94C?style=for-the-badge&logo=spring&logoColor=black)](https://spring.io)
-[![Rust](https://img.shields.io/badge/Rust-F2C94C?style=for-the-badge&logo=rust&logoColor=black)](https://www.rust-lang.org)
-[![C](https://img.shields.io/badge/C-F2C94C?style=for-the-badge&logo=c&logoColor=black)](https://www.iso.org/standard/74528.html)
+<table>
+  <tr>
+    <td align="center" width="70">
+      <a href="https://www.java.com">
+        <img src="https://skillicons.dev/icons?i=java" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://spring.io">
+        <img src="https://skillicons.dev/icons?i=spring" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.rust-lang.org">
+        <img src="https://skillicons.dev/icons?i=rust" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.iso.org/standard/74528.html">
+        <img src="https://skillicons.dev/icons?i=c" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Databases & Infrastructure**
 
-[![MySQL](https://img.shields.io/badge/MySQL-F2C94C?style=for-the-badge&logo=mysql&logoColor=black)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F2C94C?style=for-the-badge&logo=postgresql&logoColor=black)](https://www.postgresql.org)
-[![Docker](https://img.shields.io/badge/Docker-F2C94C?style=for-the-badge&logo=docker&logoColor=black)](https://www.docker.com)
-[![Linux](https://img.shields.io/badge/Linux-F2C94C?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
+<table>
+  <tr>
+    <td align="center" width="70">
+      <a href="https://www.mysql.com">
+        <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.postgresql.org">
+        <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.docker.com">
+        <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.kernel.org">
+        <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 **Development Tools**
 
-[![Zed](https://img.shields.io/badge/Zed-F2C94C?style=for-the-badge&logo=none&logoColor=black)](https://zed.dev)
-[![Git](https://img.shields.io/badge/Git-F2C94C?style=for-the-badge&logo=git&logoColor=black)](https://git-scm.com)
-[![Bash](https://img.shields.io/badge/Bash-F2C94C?style=for-the-badge&logo=gnubash&logoColor=black)](https://www.gnu.org/software/bash)
+<table>
+  <tr>
+    <td align="center" width="70">
+      <a href="https://git-scm.com">
+        <img src="https://skillicons.dev/icons?i=git" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.gnu.org/software/bash">
+        <img src="https://skillicons.dev/icons?i=bash" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Learning — Languages & Ecosystem**
+**Stack** *(Learning)*
 
-[![Julia](https://img.shields.io/badge/Julia-F2C94C?style=for-the-badge&logo=julia&logoColor=black)](https://julialang.org)
+<table>
+  <tr>
+    <td align="center" width="70">
+      <a href="https://julialang.org">
+        <img src="https://skillicons.dev/icons?i=julia" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -97,7 +156,7 @@ Background in theoretical physics (something I still keep close) which naturally
 
 ## Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amauribsjr-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/amauribsjr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amauribsjr-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/amauribsjr)  
 [![Email](https://img.shields.io/badge/Email-amauribsjunior@proton.me-6D4AFF?style=flat&logo=protonmail)](mailto:amauribsjunior@proton.me)
 
 > Fluent in English.
