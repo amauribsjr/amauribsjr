@@ -1,103 +1,43 @@
 # Hi, I'm Amauri.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20%7C%20Systems%20%7C%20Performance-0D1B2A?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Backend%20%7C%20Systems%20%7C%20Low--Level-0D1B2A?style=for-the-badge&logoColor=white">
 </p>
 
 <p align="center">
-  Based in Ponta Grossa, Brazil • Focused on low-level problem solving and efficient systems
+  Based in Ponta Grossa, Brazil • Focused on building solid foundations and writing efficient, well-structured code
 </p>
 
 ## Objective
 
-Looking mainly for backend or systems roles where I can work on performance-critical software, low-level design, and efficient system architecture.
+Looking for my first professional role as a developer. Open to backend, systems, or any environment where I can contribute meaningfully and grow as an engineer. Particularly interested in performance-conscious and low-level work, but not limited to it.
 
 ---
 
 ## Stack
 
-**Core Stack** *(Experienced)*
+**Proficient**
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <a href="https://www.java.com">
-        <img src="https://skillicons.dev/icons?i=java" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="70">
-      <a href="https://spring.io">
-        <img src="https://skillicons.dev/icons?i=spring" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="70">
-      <a href="https://www.rust-lang.org">
-        <img src="https://skillicons.dev/icons?i=rust" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="70">
-      <a href="https://www.iso.org/standard/74528.html">
-        <img src="https://skillicons.dev/icons?i=c" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 **Databases & Infrastructure**
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <a href="https://www.mysql.com">
-        <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="70">
-      <a href="https://www.postgresql.org">
-        <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="70">
-      <a href="https://www.docker.com">
-        <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="70">
-      <a href="https://www.kernel.org">
-        <img src="https://skillicons.dev/icons?i=linux" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Development Tools**
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <a href="https://git-scm.com">
-        <img src="https://skillicons.dev/icons?i=git" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="70">
-      <a href="https://www.gnu.org/software/bash">
-        <img src="https://skillicons.dev/icons?i=bash" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Stack** *(Learning)*
+**Learning**
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <a href="https://julialang.org">
-        <img src="https://skillicons.dev/icons?i=julia" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 
 ---
 
@@ -109,7 +49,7 @@ Looking mainly for backend or systems roles where I can work on performance-crit
   → Worked within an existing codebase  
   → [View project](https://github.com/ederbastos21/ecommerce)
 
-- **Reproducible NixOS system configuration (NixOS & Nix / Flakes / Home Manager)**  
+- **Reproducible NixOS system configuration (NixOS / Flakes / Home Manager)**  
   → Built and versioned a full NixOS desktop setup using flakes and Home Manager  
   → Modularized system, hardware, NVIDIA, virtualization, shell, terminal, and desktop configuration  
   → Focus on reproducible environments, Linux tooling, and declarative system management  
@@ -156,7 +96,7 @@ Background in theoretical physics (something I still keep close) which naturally
 
 ## Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amauribsjr-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/amauribsjr)  
-[![Email](https://img.shields.io/badge/Email-amauribsjunior@proton.me-6D4AFF?style=flat&logo=protonmail)](mailto:amauribsjunior@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amauribsjr-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/amauribsjr)
+[![Email](https://img.shields.io/badge/Email-amauribsjunior@proton.me-6D4AFF?style=flat-square&logo=protonmail)](mailto:amauribsjunior@proton.me)
 
 > Fluent in English.
