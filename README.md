@@ -62,6 +62,14 @@ Looking mainly for backend or systems roles where I can work on performance-crit
   → Focus on algorithms and computational efficiency  
   → [View project](https://github.com/ederbastos21/estruturas-pesquisa-ordenacao-dados/tree/master/src/main/java/br/unicesumar/projeto_1)
 
+- **Binary Trees in Rust (BST / AVL / Red-Black Tree)**  
+  → Implemented classical tree structures with full insertion, removal, and search operations  
+  → Built self-balancing trees (AVL and Red-Black) with rotations and fix-up algorithms  
+  → Designed safe pointer-like structures using ownership (Box) and indexing (Vec) without `unsafe`  
+  → Developed unit tests covering correctness, edge cases, and AVL balancing behavior  
+  → Structured CLI tools for interaction and tree visualization  
+  → [View project](https://github.com/amauribsjr/binary-trees-rust)
+
 - **Language learning manager (Java / JavaFX / SQLite)**  
   → Built an interactive desktop application for organizing language study resources  
   → Implemented local data persistence (languages, topics, and study materials)  
