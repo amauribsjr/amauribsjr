@@ -38,7 +38,6 @@ Looking mainly for backend or systems roles where I can work on performance-crit
 
 **Learning — Languages & Ecosystem**
 
-[![Ruby](https://img.shields.io/badge/Ruby-F2C94C?style=for-the-badge&logo=ruby&logoColor=black)](https://www.ruby-lang.org)
 [![Julia](https://img.shields.io/badge/Julia-F2C94C?style=for-the-badge&logo=julia&logoColor=black)](https://julialang.org)
 
 ---
