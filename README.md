@@ -51,7 +51,7 @@ Looking for my first professional role as a developer. Open to backend, systems,
 
 - **Reproducible NixOS system configuration (NixOS / Flakes / Home Manager)**  
   → Built and versioned a full NixOS desktop setup using flakes and Home Manager  
-  → Modularized system, hardware, NVIDIA, virtualization, shell, terminal, and desktop configuration  
+  → Modularized system, hardware, Intel, virtualization, shell, terminal, and desktop configuration  
   → Focus on reproducible environments, Linux tooling, and declarative system management  
   → [View project](https://github.com/amauribsjr/nixos-config)
 
