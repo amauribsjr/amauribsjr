@@ -6,23 +6,6 @@ Based in Ponta Grossa, Brazil. Fluent in English.
 
 ---
 
-## Professional focus
-
-Java backend development with Spring Framework.
-
-My work focuses on backend applications that involve:
-
-- REST APIs with Java and Spring Boot;
-- relational database modeling and SQL;
-- persistence with JPA and Hibernate;
-- service layers, DTOs, validation, and error handling;
-- practical project organization with Maven;
-- local development environments with Docker and Linux.
-
-I also study Rust, C, data structures, algorithms, and Linux systems. These are not separate career directions for me right now — they are part of my technical foundation and help me reason better about correctness, performance, memory, and how software behaves without too much abstraction.
-
----
-
 ## Tech stack
 
 **Core backend**
