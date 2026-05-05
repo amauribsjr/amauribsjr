@@ -10,7 +10,7 @@ Based in Ponta Grossa, Brazil. Fluent in English.
 
 Java backend development with Spring Framework.
 
-I am building my portfolio *mainly* around backend applications that involve:
+My work focuses on backend applications that involve:
 
 - REST APIs with Java and Spring Boot;
 - relational database modeling and SQL;
@@ -19,7 +19,7 @@ I am building my portfolio *mainly* around backend applications that involve:
 - practical project organization with Maven;
 - local development environments with Docker and Linux.
 
-I also study Rust, C, data structures, algorithms, and Linux systems. These are not separate career directions for me right now — they are part of my technical foundation and help me reason better about correctness, performance, memory, and how software behaves without too abstraction.
+I also study Rust, C, data structures, algorithms, and Linux systems. These are not separate career directions for me right now — they are part of my technical foundation and help me reason better about correctness, performance, memory, and how software behaves without too much abstraction.
 
 ---
 
@@ -152,15 +152,10 @@ Why this project matters:
 
 ## Currently strengthening
 
-- Java backend development with Spring Boot;
-- JPA/Hibernate and relational database modeling;
-- REST API design and application layering;
-- SQL mainly with MySQL;
-- API testing with Bruno and Postman;
-- Spring Security fundamentals;
-- Docker-based local environments;
-- CS50x — C, memory, algorithms, and low-level fundamentals;
-- Data Structures & Algorithms — Abdul Bari.
+- Java backend development with Spring Boot
+- JPA/Hibernate and relational database modeling
+- Spring Security fundamentals
+- Docker-based local environments
 
 ---
 
@@ -168,9 +163,7 @@ Why this project matters:
 
 I studied Physics at university, which shaped a lot of my attention to structure, abstraction, precision, and problem solving.
 
-Today, I am applying that foundation to backend development with Java and Spring, while continuing to study systems programming and computer science fundamentals.
-
-My goal is to become a reliable backend developer: someone who can understand a codebase, maintain existing behavior, build database-backed features, and keep improving technically over time.
+The less abstraction between me and the source code, the better. That's not a constraint, it's a preference.
 
 ---
 
