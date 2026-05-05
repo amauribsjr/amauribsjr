@@ -6,6 +6,12 @@ Based in Ponta Grossa, Brazil. Fluent in English.
 
 ---
 
+## Summary
+
+[Tech stack](#tech-stack) · [Relevant projects](#relevant-projects) · [Currently strengthening](#currently-strengthening) · [Background](#background) · [Contact](#contact)
+
+---
+
 ## Tech stack
 
 **Core backend**
