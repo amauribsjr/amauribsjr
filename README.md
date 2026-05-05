@@ -1,6 +1,6 @@
 # Hi, I'm Amauri.
 
-**Java Backend Developer focused on Spring Boot, REST APIs, JPA/Hibernate, SQL, and Linux-based development.**
+Java Backend Developer focused on Spring Boot, REST APIs, JPA/Hibernate, SQL, and Linux-based development.
 
 Based in Ponta Grossa, Brazil. Fluent in English.
 
