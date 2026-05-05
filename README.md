@@ -163,7 +163,7 @@ Why this project matters:
 
 I studied Physics at university, which shaped a lot of my attention to structure, abstraction, precision, and problem solving.
 
-The less abstraction between me and the source code, the better. That's not a constraint, it's a preference.
+That background paved the way I write code: close to the source, with clear boundaries between what the framework provides and what the application actually does.
 
 ---
 
