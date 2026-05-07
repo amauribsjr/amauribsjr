@@ -142,6 +142,8 @@ Why this project matters:
 
 [View project](https://github.com/amauribsjr/nixos-config)
 
+The visual layer of this setup was also extracted into [Koppi Theme](https://github.com/amauribsjr/koppi-theme), a standalone color palette and theme collection for editors, terminals and Wayland desktop components. Well versioned, documented and already released.
+
 ---
 
 ## Currently strengthening
