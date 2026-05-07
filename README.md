@@ -138,11 +138,11 @@ Why this project matters:
 
 - it shows comfort with Linux as a real development environment;
 - it demonstrates reproducibility, configuration management, and tooling discipline;
-- it supports my backend workflow instead of being the main professional direction.
+- it supports my backend workflow while also reflecting my interest in Linux and reproducible systems.
 
 [View project](https://github.com/amauribsjr/nixos-config)
 
-The visual layer of this setup was also extracted into [Koppi Theme](https://github.com/amauribsjr/koppi-theme), a standalone color palette and theme collection for editors, terminals and Wayland desktop components. Well versioned, documented and already released.
+The visual layer of this setup was also extracted into [Koppi Theme](https://github.com/amauribsjr/koppi-theme), a standalone color palette and theme collection for editors, terminals and Wayland desktop components. It is versioned, documented, and available as a public release.
 
 ---
 
