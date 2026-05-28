@@ -8,7 +8,7 @@ Based in Ponta Grossa, Brazil. Fluent in English.
 
 ## Summary
 
-[Tech stack](#tech-stack) · [Featured Projects](#featured-projects) · [Academic & Low-Level Foundations](#academic--low-level-foundations) · [Background & Infrasctructure](#background-&-infrastructure) · [Contact](#contact)
+[Tech stack](#tech-stack) · [Featured Projects](#featured-projects) · [Academic & Low-Level Foundations](#academic--low-level-foundations) · [Background & Infrasctructure](#background--infrastructure) · [Contact](#contact)
 
 ---
 
