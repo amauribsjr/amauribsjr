@@ -39,7 +39,7 @@ University team project built as a complete e-commerce application.
 - Developed purchase history flow and checkout page support.
 - Managed related products behavior and product image upload.
 - Containerized local setup with MySQL and Docker.
-- **Why this project matters:** It involved a larger existing codebase, requiring team collaboration, legacy code maintenance, and understanding existing data flows before refactoring.
+- **Why this project matters:** It involved a larger existing codebase, requiring team collaboration, legacy code maintenance, and understanding existing data flows before refactoring.  
 [View project](https://github.com/ederbastos21/ecommerce) · [View my commits](https://github.com/ederbastos21/ecommerce/commits?author=amauribsjr)
 
 ---
@@ -48,11 +48,11 @@ University team project built as a complete e-commerce application.
 
 ### 📁 Binary Trees in Rust — BST, AVL, Red-Black Tree
 Implementation of classical binary tree data structures in safe, unsafe-free Rust.
-- **Why this project matters:** It demonstrates a deep grasp of memory safety, ownership modeling, and advanced data structures, bridging the gap between high-level frameworks and foundational computer science.
+- **Why this project matters:** It demonstrates a deep grasp of memory safety, ownership modeling, and advanced data structures, bridging the gap between high-level frameworks and foundational computer science.  
 [View project](https://github.com/amauribsjr/binary-trees-rust)
 
 ### 📁 Academic algorithms collaboration — Java, Red-Black Tree, TSP
-University project focused on search, ordering, and complex algorithmic reasoning (Traveling Salesman Problem).
+University project focused on search, ordering, and complex algorithmic reasoning (Traveling Salesman Problem).  
 [View highlighted code](https://github.com/ederbastos21/estruturas-pesquisa-ordenacao-dados/tree/master/src/main/java/br/unicesumar/projeto_1)
 
 ---
