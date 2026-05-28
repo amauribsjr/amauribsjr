@@ -43,7 +43,7 @@ A mature full-stack platform for freelancers, with a decoupled JavaScript fronte
 - **Why this project matters:** It represents a complete, real-world development lifecycle within a team. Ability to write production-ready backend code that integrates seamlessly with caching layers, security, containerized environments, and frontend services.  
 [View project](https://github.com/ederbastos21/onefreela) · [View my commits](https://github.com/ederbastos21/onefreela/commits?author=amauribsjr)
 
-### 📁 Academic e-commerce collaboration — Java, Spring Boot, MySQL
+### 📁 Academic Collaboration: E-commerce — Java, Spring Boot, MySQL
 University team project built as a complete e-commerce application.
 - Developed purchase history flow and checkout page support.
 - Managed related products behavior and product image upload.
