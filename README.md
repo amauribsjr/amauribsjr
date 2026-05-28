@@ -14,14 +14,14 @@ Based in Ponta Grossa, Brazil. Fluent in English.
 
 ## Tech stack
 
-**Core backend**
+**Core backend**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JPA / Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-333333?style=flat-square)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-**Databases, Caching & DevOps**
+**Databases, Caching & DevOps**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -59,7 +59,7 @@ University project focused on search, ordering, and complex algorithmic reasonin
 
 ## Background & Infrastructure
 
-I studied **Physics** at university, which deeply structured my approach to abstraction, precision, and systemic problem-solving. 
+I studied **Physics** at university, which deeply structured my approach to abstraction, precision, and systemic problem-solving.  
 This analytical mindset extends to my development workflow: I run a fully declarative, versioned desktop environment via **NixOS (Flakes/Home Manager)**, reflecting my discipline with system reproducibility and Linux-based infrastructure.
 
 ---
