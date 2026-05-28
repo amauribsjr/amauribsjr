@@ -31,7 +31,7 @@ Based in Ponta Grossa, Brazil. Fluent in English.
 
 ---
 
-## Featured Projects (Java / Spring Boot)
+## Featured Projects
 
 
 ### 📁 Academic e-commerce collaboration — Java, Spring Boot, MySQL
