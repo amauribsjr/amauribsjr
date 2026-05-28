@@ -33,6 +33,15 @@ Based in Ponta Grossa, Brazil. Fluent in English.
 
 ## Featured Projects
 
+### 📁 Academic Collaboration: OneFreela — Java, Spring Boot, JPA, MySQL, Redis, Docker
+A mature full-stack platform for freelancers, with a decoupled JavaScript frontend and a robust, secure Java backend API.
+- Developed core RESTful endpoints following standard enterprise architectural layers.
+- Implemented application security and authorization constraints.
+- Integrated Redis caching alongside MySQL and JPA to optimize performance and data persistence.
+- Leveraged Docker Compose for local microservices orchestration.
+- Designed and tested API request flows using Bruno and managed data migrations via DBeaver.
+- **Why this project matters:** It represents a complete, real-world development lifecycle within a team. Ability to write production-ready backend code that integrates seamlessly with caching layers, security, containerized environments, and frontend services.  
+[View project](https://github.com/ederbastos21/onefreela) · [View my commits](https://github.com/ederbastos21/onefreela/commits?author=amauribsjr)
 
 ### 📁 Academic e-commerce collaboration — Java, Spring Boot, MySQL
 University team project built as a complete e-commerce application.
