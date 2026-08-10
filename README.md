@@ -1,14 +1,8 @@
-# Hi, I'm Amauri.
+# Olá! Sou Amauri.
 
-Java Backend Developer focused on Spring Boot, REST APIs, JPA/Hibernate, SQL, and robust backend architecture.
+Desenvolvedor back-end com foco em Java, Spring Boot, REST APIs, JPA/Hibernate, arquitetura e infra back-end robustos.
 
-Based in Ponta Grossa, Brazil. Fluent in English.
-
----
-
-## Summary
-
-[Tech stack](#tech-stack) · [Featured Projects](#featured-projects) · [Academic & Low-Level Foundations](#academic--low-level-foundations) · [Background & Infrasctructure](#background--infrastructure) · [Contact](#contact)
+Ponta Grossa, Brasil. Fluente em inglês.
 
 ---
 
@@ -22,7 +16,6 @@ Based in Ponta Grossa, Brazil. Fluent in English.
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 **Databases, Caching & DevOps**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -31,49 +24,15 @@ Based in Ponta Grossa, Brazil. Fluent in English.
 
 ---
 
-## Featured Projects
+## Background & Infra
 
-### 📁 Academic Collaboration: OneFreela — Java, Spring Boot, JPA, MySQL, Redis, Docker
-A mature full-stack platform for freelancers, with a decoupled JavaScript frontend and a robust, secure Java backend API.
-- Developed core RESTful endpoints following standard enterprise architectural layers.
-- Implemented application security and authorization constraints.
-- Integrated Redis caching alongside MySQL and JPA to optimize performance and data persistence.
-- Leveraged Docker Compose for local microservices orchestration.
-- Designed and tested API request flows using Bruno and managed data migrations via DBeaver.
-- **Why this project matters:** It represents a complete, real-world development lifecycle within a team. Ability to write production-ready backend code that integrates seamlessly with caching layers, security, containerized environments, and frontend services.  
-[View project](https://github.com/ederbastos21/onefreela) · [View my commits](https://github.com/ederbastos21/onefreela/commits?author=amauribsjr)
-
-### 📁 Academic Collaboration: E-commerce — Java, Spring Boot, MySQL
-University team project built as a complete e-commerce application.
-- Developed purchase history flow and checkout page support.
-- Managed related products behavior and product image upload.
-- Containerized local setup with MySQL and Docker.
-- **Why this project matters:** It involved a larger existing codebase, requiring team collaboration, legacy code maintenance, and understanding existing data flows before refactoring.  
-[View project](https://github.com/ederbastos21/ecommerce) · [View my commits](https://github.com/ederbastos21/ecommerce/commits?author=amauribsjr)
+Cursei **Física** na Universidade Estadual de Ponta Grossa, período o qual estruturou mais profundamente minha visão e métodos para soluções à abstrações, nível de precisão e soluções sistêmicas.
+A mentalidade analítica que floresceu cada vez mais desde então extendeu-se ao meu workflow.
+Uso como base de estudos e desenvolvimentos ambientes Linux, conteinerização, e etc.
 
 ---
 
-## Academic & Low-Level Foundations
-
-### 📁 Binary Trees in Rust — BST, AVL, Red-Black Tree
-Implementation of classical binary tree data structures in safe, unsafe-free Rust.
-- **Why this project matters:** It demonstrates a deep grasp of memory safety, ownership modeling, and advanced data structures, bridging the gap between high-level frameworks and foundational computer science.  
-[View project](https://github.com/amauribsjr/binary-trees-rust)
-
-### 📁 Academic algorithms collaboration — Java, Red-Black Tree, TSP
-University project focused on search, ordering, and complex algorithmic reasoning (Traveling Salesman Problem).  
-[View highlighted code](https://github.com/ederbastos21/estruturas-pesquisa-ordenacao-dados/tree/master/src/main/java/br/unicesumar/projeto_1)
-
----
-
-## Background & Infrastructure
-
-I studied **Physics** at university, which deeply structured my approach to abstraction, precision, and systemic problem-solving.  
-This analytical mindset extends to my development workflow: I run a fully declarative, versioned desktop environment via **NixOS (Flakes/Home Manager)**, reflecting my discipline with system reproducibility and Linux-based infrastructure.
-
----
-
-## Contact
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amauribsjr-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/amauribsjr)
 [![Email](https://img.shields.io/badge/Email-amauribsjunior%40proton.me-6D4AFF?style=flat-square&logo=protonmail)](mailto:amauribsjunior@proton.me)
