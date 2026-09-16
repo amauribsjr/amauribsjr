@@ -1,6 +1,7 @@
 # Olá! Sou Amauri.
 
 Desenvolvedor back-end com foco em Java, Spring Boot, REST APIs, JPA/Hibernate, arquitetura e infra back-end robustos.
+Proficiência relevante também em Rust e C, desenvolvimento de baixo nível.
 
 Ponta Grossa, Brasil. Fluente em inglês.
 
