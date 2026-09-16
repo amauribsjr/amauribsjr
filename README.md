@@ -28,6 +28,7 @@ Ponta Grossa, Brasil. Fluente em inglês.
 ## Background & Infra
 
 Cursei **Física** na Universidade Estadual de Ponta Grossa, período o qual estruturou mais profundamente minha visão e métodos para soluções à abstrações, nível de precisão e soluções sistêmicas. 
+
 A mentalidade analítica que floresceu cada vez mais desde então extendeu-se ao meu workflow: 
 Uso como base de estudos e desenvolvimentos ambientes Linux, conteinerização, e etc.
 
